@@ -7,3 +7,7 @@ El projecte final de l'assignatura de XML.
 ## Desenvolupament
 * item 1
 * item 2
+
+## Autors
+- Jordi
+- Aurora
